@@ -1,5 +1,5 @@
- IP:158.160.74.14;
- name_taski:https://pampamtaskiki.ddns.net;
- name_kittygram:https://kittykittyinfra.ddns.net;
- login:gordey;
- password:123Gor456;
+IP: 158.160.74.14;
+name_taski: https://pampamtaskiki.ddns.net;
+name_kittygram: https://kittykittyinfra.ddns.net;
+login: gordey;
+password: 123Gor456;
